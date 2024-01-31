@@ -1,0 +1,6 @@
+pragma solidity ^0.5.16; 
+
+contract REVOLUTION {
+    string public name = "RVLTN";
+    string public symbol = "RVLN";
+    uint256 public totalSupply = 150000000; // 150 million tokens
